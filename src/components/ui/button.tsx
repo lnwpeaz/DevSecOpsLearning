@@ -4,7 +4,6 @@ import { cva, type VariantProps } from "class-variance-authority"
 
 import { cn } from "@/lib/utils"
 
-const unused = 42;
 
 
 const buttonVariants = cva(
